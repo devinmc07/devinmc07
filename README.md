@@ -6,7 +6,9 @@ I'm currently building projects and expanding my technical skills
 
 ## Technical Skills
 **Languages:** Python, Java, Bash, Powershell
+
 **Tools:** Git, GitHub, Linux, VS Code, VirtualBox, Wazuh
+
 **Interests:** Cybersecurity, Automation, Penetration Testing
 
 ## Featured Projects
