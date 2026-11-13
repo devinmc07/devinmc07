@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Devin
 
-<!--
-**devinmc07/devinmc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Cybersecurity student at UTSA interested in cybersecurity, pen testing, software development, and AI.
 
-Here are some ideas to get you started:
+I'm currently building projects and expanding my technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+**Languages:** Python, Java, Bash, Powershell
+**Tools:** Git, GitHub, Linux, VS Code, VirtualBox, Wazuh
+**Interests:** Cybersecurity, Automation, Penetration Testing
+
+## Featured Projects
+- **Home SOC Lab**
+  - Personal Cybersecurity lab for security monitoring and analysis
+  - Kali and Ubuntu Linux, VirtualBox, Wazuh, Lynis, Hydra
+
+## Currently Learning
+- Network Security
+- Security monitoring and analysis
+- Python development
+- AI agent development
+
+## Connect With Me
+- LinkedIn: [Devin McConkey](https://www.linkedin.com/in/devin-mcconkey-92ab86448/)
+- Email: devinmcconkey07@gmail.com
